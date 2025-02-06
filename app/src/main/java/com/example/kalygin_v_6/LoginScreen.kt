@@ -38,6 +38,7 @@ fun LoginScreen(navController: NavController) {
     val dbHelper = Database(context, "DATABASE1")
 
 
+
     Box(
         modifier = Modifier
             .fillMaxSize()
