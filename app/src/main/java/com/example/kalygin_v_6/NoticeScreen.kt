@@ -28,6 +28,7 @@ fun NoticeScreen(navController: NavController) {
     val LightTextGray = Color(0xFFD557F4)
     val PrimaryGreen = Color(0xFFD557F4)
 
+
     Box(
         modifier = Modifier
             .fillMaxSize()
